@@ -1,0 +1,10 @@
+my=(input("enter name==")
+count=0
+z=''
+for x in my:
+	if x==' '
+	count+=1
+
+for x in my  
+	z=my[0].upper()
+	if count 
